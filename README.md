@@ -93,7 +93,7 @@ Want to add a new dataset or improve metadata?
 | Dataset                         | Domain                  | Size                     | Type         | Format      | License     | Access     | Link |
 |--------------------------------|-------------------------|--------------------------|--------------|-------------|-------------|------------|------|
 | PubChem                        | Molecules & data        | 119M compounds           | Literature    | SMILES/SDF  | Public Domain | Open    | [pubchem.ncbi.nlm.nih.gov](https://pubchem.ncbi.nlm.nih.gov) |
-| USPTO Reactions                | Organic reactions       | 1.8M reactions           | Literature    | RXN/SMILES  | Open        | Open       | [USPTO MIT](http://bit.ly/USPTOpatents) |
+| USPTO Reactions                | Organic reactions       | 1.8M reactions           | Literature    | RXN/SMILES  | Open        | Open       | [USPTO MIT]([https://bit.ly/USPTOpatents](https://figshare.com/articles/dataset/Chemical_reactions_from_US_patents_1976-Sep2016_/5104873)) |
 | Open Reaction Database (ORD)   | Synthetic reactions     | ~1M reactions            | Experimental/Lit | JSON     | CC BY 4.0   | Open       | [open-reaction-database.org](https://open-reaction-database.org) |
 | PatCID (IBM)                   | Chemical image data     | 81M images / 13M mols    | Literature    | PNG/SMILES  | Open        | Open       | [github.com/DS4SD/PatCID](https://github.com/DS4SD/PatCID) |
 | MatScholar                     | NLP corpus (materials)  | 5M+ abstracts            | Literature    | JSON/Graph  | Open        | Open       | [matscholar.com](https://matscholar.com) |
